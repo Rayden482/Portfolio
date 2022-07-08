@@ -50,6 +50,12 @@ img {
     /* height: 100px; */
 }
 
+.highl{
+    color:#33f4ad;
+    font-weight: 700;
+    
+}
+
 .shadow-effect {
     transition: all 0.5s;
 }
